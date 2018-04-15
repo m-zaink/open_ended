@@ -1,0 +1,2 @@
+This is really good.
+I developed a text editor in the terminal
